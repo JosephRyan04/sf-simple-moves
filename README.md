@@ -1,11 +1,10 @@
 # <img src="public/icons/icon_48.png" width="45" align="left"> Sf Simple Moves
 
-My Chrome Extension
+Chrome extension to make the Street Fighter 6 movelist simpler
 
 ## Features
 
-- Feature 1
-- Feature 2
+- Adds collapsable lists to movesets
 
 ## Install
 
