@@ -1,4 +1,4 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> Sf Simple Moves
+Sf Simple Moves
 
 Chrome extension to make the Street Fighter 6 movelist simpler
 
