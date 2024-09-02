@@ -13,7 +13,11 @@
   "background": {
     "service_worker": "background.js"
   },
-  "chrome_url_overrides": {
-    "newtab": "index.html"
-  }
+  "content_scripts": [
+    {
+      "matches": ["https://www.streetfighter.com/6/character/*/movelist"],
+      "css": ["app.css"],
+      "js": ["app.js"]
+    }
+  ]
 }
